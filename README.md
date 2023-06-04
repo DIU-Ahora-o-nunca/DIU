@@ -254,9 +254,9 @@ Una característica destacada del rediseño es la inclusión de un timeline para
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Projecto asignado: [DIU2.Dumblendor](https://github.com/VictorPB/DIU)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Es una un espacio donde los propios usuarios pueden crear y añadir rutas para que otros usuarios las hagan. Además cada ruta puede tener variantes. Estas variantes tienen una estructura similiar a la ruta original pero con alguna otra parada. Se pueden buscar rutas a través de la ubicación o a través del inicio y el fin.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
