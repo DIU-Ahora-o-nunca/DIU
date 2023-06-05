@@ -15,6 +15,21 @@ Es una un espacio donde los propios usuarios pueden crear y añadir rutas para q
     <img src="./img/LandingPage.png">
 </p>
 
+
+Antes que nada destacar que es un proyecto completo y que cumple con todos los objetivos propuestos.
+
+Destacamos los siguientes puntos negativos que pueden implicar problemas de usabilidad:
+
+La cantidad de elementos y texto hacen complicado centrar la acción. resulta confuso tanta información en un mismo espacio.
+- La elección de colores no nos ha resultado del todo amigable.
+- Hay algunas incongruencias en el estilo en algunos elementos. Hay varios elementos como cajas que no mantienen un mismo estilo.
+- A título personal la fuente no nos parece la más adecuada para un diseño moderno.
+Por otro parte puntos fuertes a destacar:
+- Un buen diseño de logo.
+- Cumple con todos los requisitos de navegación. En todo momento se entiende dónde estás y a dónde vas.
+- La propuesta resulta muy interesante.
+
+
 ![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
 
@@ -64,31 +79,43 @@ Necesidades con respecto al prototipo B:
 
  
 
-| Usuarios | Sexo/Edad     | Ocupación       |  Exp.TIC    | Experiencia internet | Plataforma | TestA/B
-| ------------- | -------- | -----------    | ----------- | -----------  | ---------- | ----
-| Martín López  | H/35   | Estudiante       | Media       | Promedio    | movil         | A 
-| Clara Díaz  | M/28   | Estudiante          | Media       | Alta       | Web           | B 
-| Laura Gómez  | M/45   | Abogado            | Baja        | Alta       |web            | A 
-| Carlos Pérez  | H/40   | Monitor de pilates   | Media    | Media/ baja  |movil  | B 
+| Usuarios | Sexo/Edad     | Ocupación       | Experiencia internet | Plataforma | TestA/B
+| ------------- | -------- | -----------     | -----------  | ---------- | ----
+| Martín López  | H/35   | Estudiante        | Promedio    | movil         | A 
+| Clara Díaz  | M/28   | Estudiante          | Alta       | Web           | B 
+| Laura Gómez  | M/45   | Abogado                     | Alta       |web            | A 
+| Carlos Pérez  | H/40   | Monitor de pilates       | Media/ baja  |movil  | B 
 
 
 ![Método UX](../img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Test Clara
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+<p align="center">
+    <img src="./img/TestClara.png">
+</p>
+
+Test Carlos
+
+<p align="center">
+    <img src="./img/TestCarlos.png">
+</p>
+
+Excel
+
+<p align="center">
+    <img src="./img/TodosTest.png">
+</p>
 
 
 ![Método UX](../img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+En el siguiente enlace encontramos el [reporte de usabilidad](./DIU_report-usability.pdf)
 
+En el siguiente enlace encontramos el [UXCaseStudy-review](./UXCasescores.pdf) __SCORE 81__
 
-
->>> Valoración personal 
+En resumen, el diseño web actualmente presenta un cumplimiento satisfactorio de sus promesas, pero aún existen áreas que requieren atención para lograr una experiencia aún mejor. Es recomendable enfocarse en mejorar la distribución de la información, ya que esto permitiría una presentación más clara y accesible para los usuarios. Además, sería beneficioso explorar la posibilidad de utilizar una paleta de colores más ligera y armoniosa, lo cual podría generar una sensación visual más agradable y coherente en el sitio. Al trabajar en la coherencia de los componentes visuales, se podría lograr una apariencia más cohesionada y profesional en general. Sin embargo, a pesar de estas áreas de mejora, la propuesta en sí resulta interesante y evidencia un potencial considerable para ofrecer una experiencia web atractiva y efectiva.
 
 
