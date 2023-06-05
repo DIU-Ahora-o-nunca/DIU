@@ -362,7 +362,7 @@ Excel
 ![Método UX](./img/usability-report.png) 4.d Usability Report
 ----
 
-En el siguiente enlace encontramos el [reporte de usabilidad](./P4/DIU_report-usability.pdf)
+En el siguiente enlace encontramos el [Reporte de usabilidad B](./P4/P4_UsabReport_B_doneby_DIU2_Dumblendor.pdf) para Dumblendor.
 
 En el siguiente enlace encontramos el [UXCaseStudy-review](./P4/UXCasescores.pdf) __SCORE 81__
 
