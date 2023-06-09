@@ -372,7 +372,7 @@ En resumen, el diseño web actualmente presenta un cumplimiento satisfactorio de
 
 ![Método UX](img/eye-tracking.png)  5.a Eye Tracking method 
 
-Para realizar el experimento, utilizamos la herramienta [https://gazerecorder.com/](Gaze Recorder). Generamos imágenes del diseño a partir de los archivos de Figma del equipo Dumblendor, que inicialmente no estaban disponibles. El uso de una cuenta estándar dificultó la utilización de la herramienta.
+Para realizar el experimento, utilizamos la herramienta [Gaze Recorder](https://gazerecorder.com/). Generamos imágenes del diseño a partir de los archivos de Figma del equipo Dumblendor, que inicialmente no estaban disponibles. El uso de una cuenta estándar dificultó la utilización de la herramienta.
 
 En cuanto a la selección de los usuarios participantes, contamos con la participación tanto de nosotros mismos, como usuarios expertos, como de nuestros compañeros de piso y amigos, quienes siguieron detalladamente las instrucciones que les proporcionamos.
 
@@ -381,23 +381,23 @@ Al diseñar el experimento, nos centramos en las características del diseño we
 5.a) Diseño del experimento 
 ----
 
-Para llevar a cabo el experimento, seguiremos las siguientes pautas:
+Para llevar a cabo el experimento, seguimos las siguientes pautas:
 
 - Al comenzar el experimento, se explicó a cada usuario cuál sería su motivación al acceder al sitio, en este caso, buscar y planificar una actividad turística de senderismo.
 
-- Se solicitará a cada usuario que identifique los servicios ofrecidos por el sitio web.
+- Se solicitó a cada usuario que identificara los servicios ofrecidos por el sitio web.
 
-- Se pedirá a los usuarios que localicen y reconozcan elementos específicos, como la función de búsqueda de rutas.
+- Se pidió a los usuarios que localizaran y reconocieran elementos específicos, como la función de búsqueda de rutas.
 
-- Se solicitará a los usuarios que identifiquen la estructura de la información presentada en el sitio.
+- Se solicitó a los usuarios que identificaran la estructura de la información presentada en el sitio.
 
-- Se pedirá a los usuarios que intenten determinar su ubicación (en el sitio web) en cada momento durante la navegación del sitio web.
+- Se les pidió a los usuarios que intentaran determinar su ubicación (en el sitio web) en cada momento durante la navegación del sitio web.
 
-- Se les explicará cómo funciona la aplicación Gaze Recorder y se iniciará el experimento con la calibración inicial.
+- Se les explicó cómo funcionaba la aplicación Gaze Recorder y se inició el experimento con la calibración inicial.
 
-La intención es permitir que cada usuario navegue libremente con un par de objetivos y observar cómo se desenvuelven al recorrer cada vista con la mirada.
+La intención era permitir que cada usuario navegara libremente con un par de objetivos y observar cómo se desenvolvían al recorrer cada vista con la mirada.
 
-Suponemos que el entorno de experimentación está operativo y que las imágenes están cargadas en el mismo orden para todos los usuarios.
+Suponíamos que el entorno de experimentación estaba operativo y que las imágenes estaban cargadas en el mismo orden para todos los usuarios.
 
 5.b) Resultados y valoración 
 
@@ -414,7 +414,7 @@ __Cuenta__
     <img src="./P5/zonasInteres/cuenta.jpg">
 </p>
 
-En el caso de la pantalla de la cuenta personal, las áreas de interés han obtenido un resultado satisfactorio. El menú del perfil podría usar distintos colores además de otra disposición para que destaquen las opciones disponibles y se de la relevancia necesaria.
+En el caso de la pantalla de la cuenta personal, se logró un resultado satisfactorio en cuanto a las áreas de interés. Sin embargo, se podrían realizar mejoras en el diseño del menú del perfil para resaltar las opciones disponibles y otorgarles la relevancia necesaria. Se sugiere utilizar colores distintos y una disposición que permita destacar las opciones de manera efectiva. 
 
 
 __Buscador personalizado__
@@ -435,4 +435,3 @@ Además, la falta de una jerarquía visual clara puede generar una sensación de
 El enfoque principal se encuentra en las imágenes, las cuales captan principalmente la atención del usuario. Por lo tanto, es recomendable utilizar las imágenes de manera eficiente para respaldar y complementar el diseño de manera efectiva.
 
 Por lo tanto, es recomendable revisar y optimizar el diseño para mejorar la usabilidad y facilitar la comprensión de la información por parte de los usuarios. Esto implica considerar la implementación de una estructura visual coherente y una jerarquía clara que guíe la atención del usuario de manera intuitiva y efectiva.
-
