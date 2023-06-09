@@ -401,6 +401,8 @@ Suponíamos que el entorno de experimentación estaba operativo y que las imáge
 
 5.b) Resultados y valoración 
 
+Debido al agotamiento de cretidos de la aplicación no hemos podido realizar tantos experimentos con usuarios como queriamos. Hemos sufrigo agotamiento de creditos y no nos dejaba crear mas pruebas.
+
 __Inicio__
 
 <p align="center">
